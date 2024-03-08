@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbdulRahman2007
 - 👀 I’m Full-Stack web-app-developer...
-- 🌱 I’m currently learning REACT...
+- 🌱 I’m currently learning REACT..
 - 👯 I’m looking to collaborate on:
 Fullstack projects
 
