@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👋 Hi, I’m @AbdulRahman2007<br>👀 I’m interested in web dev ...<br>🌱 I’m currently learning C++ ...<br>💞️ I’m looking to collaborate on full stack projects ...<br>📫 How to reach me 3dxswitch@gmail.com ...
+<br>👋 Hi, I’m @AbdulRahman2007<br>👀 I’m interested in product building ...<br>🌱 I’m currently learning system design ...<br>💞️ I’m looking to collaborate on full stack projects ...<br>📫 How to reach me khan.abdulrahman2007@outlook.com...
 
 
 # 💻 Tech Stack:
